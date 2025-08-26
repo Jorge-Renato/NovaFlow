@@ -34,7 +34,7 @@
 
 🎯 Objetivo
 
-Apresentar um frontend que represente uma solução de gestão eficiente, com seções voltadas para controle de dados, análise de desempenho e tomadas de decisão estratégicas — tudo isso com uma experiência de usuário fluida e um design profissional.
+Este projeto foi desenvolvido com o objetivo de testar e aplicar os conhecimentos adquiridos no uso do Tailwind CSS para a construção de interfaces modernas e responsivas. A plataforma criada é uma solução fictícia de gestão inteligente, que conecta dados, clientes e equipes em um único lugar, focando em agilidade e usabilidade.
 
 🚀 Tecnologias utilizadas
 
